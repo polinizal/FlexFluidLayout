@@ -27,3 +27,15 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.container {
+  display: flex;
+}
+
+.aside {
+  width: 280px;
+}
+
+.main {
+  width: auto;
+}
